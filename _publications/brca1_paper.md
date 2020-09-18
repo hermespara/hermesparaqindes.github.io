@@ -2,7 +2,6 @@
 title: "Uncovering the Translational Regulatory Activity of the Tumor Suppressor BRCA1."
 collection: publications
 permalink: /publication/brca1_paper
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-04
 venue: 'Cells'
 paperurl: 'https://doi.org/10.3390/cells9040941'
