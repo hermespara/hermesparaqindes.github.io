@@ -1,0 +1,11 @@
+---
+title: "Uncovering the Translational Regulatory Activity of the Tumor Suppressor BRCA1."
+collection: publications
+permalink: /publication/brca1_paper
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2020-04
+venue: 'Cells'
+paperurl: 'https://doi.org/10.3390/cells9040941'
+---
+
+APA	Berthel, E., Vincent, A., Eberst, L., Torres, A. G., Dacheux, E., Rey, C., Marcel, V., **Paraqindes, H**., Lachuer, J., Catez, F., Pouplana, L. R., Treilleux, I., Diaz, J. J., & Venezia, N. D. (2020). Uncovering the Translational Regulatory Activity of the Tumor Suppressor BRCA1. Cells, 9(4), 941. https://doi.org/10.3390/cells9040941
